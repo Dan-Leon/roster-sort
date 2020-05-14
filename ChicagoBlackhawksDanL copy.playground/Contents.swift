@@ -1,5 +1,7 @@
 import UIKit
 
+// This is a demonstraion of data manipulation. In all sense this will be better handled with building an object then passing the data through the object to populate an array of objects. 
+
 var totalage = 0
 var aveage = 0
 var commonBirthMonth = 0
